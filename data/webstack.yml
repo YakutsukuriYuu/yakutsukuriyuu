@@ -22,6 +22,10 @@
       logo: null
       url: https://www.bilibili.com/
       description: "bilibili干杯"
+    - title: 抖音
+      logo: null
+      url: https://www.douyin.com/
+      description: null
     - title: 腾讯视频
       logo: null
       url: https://v.qq.com/
