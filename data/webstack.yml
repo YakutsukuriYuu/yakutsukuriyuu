@@ -1,0 +1,23 @@
+---
+- taxonomy: 常用推荐
+  icon: fa-star
+  links: 
+    - title: baidu
+      logo: null
+      url: https://www.baidu.com/
+      description: "baidu"
+    - title: chatgpt
+      logo: null
+      url: https://chatgpt.com/
+      description: "AI Chat Service"
+    
+- taxonomy: 友情链接
+  icon: fa-link
+  friend:
+    - title: 个人主页
+      url: https://bento.me/yakutsukuriyuu
+      description: "bento页面"
+    - title: github仓库
+      url: https://github.com/YakutsukuriYuu
+      description: "github页面"
+---
