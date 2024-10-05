@@ -1,5 +1,5 @@
 ---
-- taxonomy: 常用推荐
+- taxonomy: 常用
   icon: fa-star
   links: 
     - title: baidu
@@ -10,6 +10,58 @@
       logo: null
       url: https://chatgpt.com/
       description: "AI Chat Service"
+    - title: 哔哩哔哩
+      logo: null
+      url: https://www.bilibili.com/
+      description: "bilibili干杯"
+
+- taxonomy: 影视
+  icon: fa-star
+  links: 
+    - title: 哔哩哔哩
+      logo: null
+      url: https://www.bilibili.com/
+      description: "bilibili干杯"
+    - title: 腾讯视频
+      logo: null
+      url: https://v.qq.com/
+      description: null
+    - title: 爱奇艺
+      logo: null
+      url: https://www.iqiyi.com/
+      description: null
+    - title: YouTube
+      logo: null
+      url: https://www.youtube.com/
+      description: null
+    - title: 优酷视频
+      logo: null
+      url: https://www.youku.com/
+      description: null
+    - title: 芒果视频
+      logo: null
+      url: https://www.mgtv.com/
+      description: null
+
+- taxonomy: 网页放置游戏
+  icon: fa-star
+  links: 
+    - title: git游戏
+      logo: null
+      url: https://gityx.com/
+      description: null
+    - title: 乌龟放置
+      logo: null
+      url: https://yakutsukuriyuu.github.io/super-turtle/
+      description: null
+    - title: 进化
+      logo: null
+      url: https://yakutsukuriyuu.github.io/evolve/
+      description: null
+    - title: 猫国建设者
+      logo: null
+      url: https://yakutsukuriyuu.github.io/kittens-game/
+      description: null
     
 - taxonomy: 友情链接
   icon: fa-link
