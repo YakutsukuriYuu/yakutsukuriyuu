@@ -14,6 +14,22 @@
       logo: null
       url: https://www.bilibili.com/
       description: "bilibili干杯"
+      
+- taxonomy: 学习
+  icon: fa-star
+  links: 
+    - title: 研招网
+      logo: null
+      url: https://yzst.chsi.com.cn/
+      description: null
+    - title: 学信网
+      logo: null
+      url: https://www.chsi.com.cn/
+      description: 
+    - title: 超星学习通
+      logo: null
+      url: https://chaoxing.com/
+      description: null
 
 - taxonomy: 影视
   icon: fa-star
