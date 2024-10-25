@@ -22,7 +22,26 @@
       logo: null
       url: http://121.4.252.215:5244/
       description: null
-
+- taxonomy: 直播平台
+  icon: fa-star
+  links: 
+    - title: 虎牙直播
+      logo: null
+      url: https://www.huya.com/
+      description: null
+    - title: 哔哩哔哩直播
+      logo: null
+      url: https://live.bilibili.com/
+      description: null
+    - title: 斗鱼直播
+      logo: null
+      url: https://www.douyu.com/
+      description: null
+    - title: twitch直播
+      logo: null
+      url: https://www.twitch.tv/?lang=zh-CN
+      description: null
+      
 - taxonomy: 游戏网址
   icon: fa-star
   links: 
