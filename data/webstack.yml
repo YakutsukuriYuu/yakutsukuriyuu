@@ -26,6 +26,10 @@
       logo: null
       url: https://unsplash.com/
       description: 壁纸
+    - title: 腾讯云
+      logo: null
+      url: https://cloud.tencent.com/
+      description: null
 - taxonomy: 直播平台
   icon: fa-star
   links: 
