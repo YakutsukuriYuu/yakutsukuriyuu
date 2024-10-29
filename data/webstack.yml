@@ -49,6 +49,10 @@
       logo: null
       url: https://www.twitch.tv/?lang=zh-CN
       description: null
+    - title: yuu直播
+      logo: null
+      url: http://121.4.252.215/
+      description: null
       
 - taxonomy: 游戏网址
   icon: fa-star
